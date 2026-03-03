@@ -4,7 +4,7 @@ Welcome to my professional portfolio repository. This repository includes my det
 
 ## 💼 About Me
 
-I am a passionate **MERN Stack Developer** with hands-on experience in building responsive, scalable, and user-focused full-stack applications. My expertise spans frontend, backend, databases, authentication, and modern development workflows. I enjoy solving complex problems, building production-ready systems, and continuously expanding my technical skill set.
+I am a passionate **MERN Stack Developer** with hands on experience in building responsive, scalable, and user focused full stack applications. My expertise spans frontend, backend, databases, authentication, and modern development workflows. I enjoy solving complex problems, building production ready systems, and continuously expanding my technical skill set.
 
 ---
 
@@ -33,8 +33,8 @@ I am a passionate **MERN Stack Developer** with hands-on experience in building 
 
 ### **Security & Authentication**
 - JWT (JSON Web Tokens)
-- RBAC (Role-Based Access Control)
-- OTP-based Authentication
+- RBAC (Role Based Access Control)
+- OTP based Authentication
 - XSS Protection & Rate Limiting
 
 ### **Tools & Technologies**
@@ -53,12 +53,12 @@ I am a passionate **MERN Stack Developer** with hands-on experience in building 
 *Nov 2025 – Present*
 - Leading a team of 5 developers.
 - Architecting backend systems.
-- Ensuring high-quality frontend & backend integration.
+- Ensuring high quality frontend & backend integration.
 - Managing Agile workflows and code reviews.
 
 ### **MERN Stack Developer** | TechTideCo
 *Aug 2025 – Nov 2025*
-- Developed full-stack apps with MERN stack.
+- Developed full stack apps with MERN stack.
 - Built secure APIs and authentication systems.
 - Improved app performance and scalability.
 
@@ -79,7 +79,7 @@ I am a passionate **MERN Stack Developer** with hands-on experience in building 
 ## 🛠 Major Projects
 
 - **TechTide Corporate Website**: Full MERN stack corporate platform with Admin dashboard (CRUD) and RBAC.
-- **Task Management Website**: Multi-role workflow system using JWT, RBAC, and REST APIs. Features attendance, invoicing, and scoring.
+- **Task Management Website**: Multi role workflow system using JWT, RBAC, and REST APIs. Features attendance, invoicing, and scoring.
 - **Voice Speech Website**: Flask-based speech-to-text system using MediaRecorder and WebM-to-WAV conversion.
 - **AuraSpeech Website**: AI Text-to-Speech using FastAPI with custom voice parameters and real-time audio generation.
 - **NBN Workflow Website**: Node.js + JWT + Stripe integration with Google OAuth and security measures (XSS, rate limiting).
@@ -113,7 +113,7 @@ I am a passionate **MERN Stack Developer** with hands-on experience in building 
 - **Art Competition** – 3rd Position
 - **Member** of English Debate Society
 - **Midfielder** – Cantt United Football Club
-- **Volunteer roles** in large-scale events (LGU, IEEE, Web3Pak, HER Marketplace)
+- **Volunteer roles** in large scale events (LGU, IEEE, Web3Pak, HER Marketplace)
 
 ---
 
