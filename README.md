@@ -45,56 +45,6 @@ I am a passionate **MERN Stack Developer** with hands on experience in building 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 - Stripe API, REST APIs, MVC Architecture, Agile
 
----
-
-## 📌 Professional Experience
-
-### **Development Team Lead** | TechTideCo
-*Nov 2025 – Present*
-- Leading a team of 5 developers.
-- Architecting backend systems.
-- Ensuring high quality frontend & backend integration.
-- Managing Agile workflows and code reviews.
-
-### **MERN Stack Developer** | TechTideCo
-*Aug 2025 – Nov 2025*
-- Developed full stack apps with MERN stack.
-- Built secure APIs and authentication systems.
-- Improved app performance and scalability.
-
-### **Management Lead** | ISPR Internship
-*July 2025 – Aug 2025*
-- Built responsive UI components.
-- Assisted in backend development.
-- Managed Git & GitHub workflows.
-
-### **Web Developer Intern** | IT Club
-*Jan 2025 – Mar 2025*
-- Created responsive static and dynamic web pages.
-- Built product showcase website.
-- Implemented animations and UX improvements.
-
----
-
-## 🛠 Major Projects
-
-- **TechTide Corporate Website**: Full MERN stack corporate platform with Admin dashboard (CRUD) and RBAC.
-- **Task Management Website**: Multi role workflow system using JWT, RBAC, and REST APIs. Features attendance, invoicing, and scoring.
-- **Voice Speech Website**: Flask-based speech-to-text system using MediaRecorder and WebM-to-WAV conversion.
-- **AuraSpeech Website**: AI Text-to-Speech using FastAPI with custom voice parameters and real-time audio generation.
-- **NBN Workflow Website**: Node.js + JWT + Stripe integration with Google OAuth and security measures (XSS, rate limiting).
-- **Inventory Management System**: MERN stack with OTP authentication, barcode scanning, and analytics dashboards.
-
----
-
-## 🎓 Education
-
-- **BS Software Engineering** (2021–2025) – Lahore Garrison University
-- **ICS Physics** (2019–2021) – Garrison College
-- **Matric Computer Science** (2017–2019) – APSACS
-
----
-
 ## 📜 Certifications
 
 - **MERN Stack** – NAVTTC
@@ -106,17 +56,6 @@ I am a passionate **MERN Stack Developer** with hands on experience in building 
 
 ---
 
-## 🏆 Achievements & Activities
-
-- **1st Place** – Mobile Development Competition, RCC 2024
-- **Campus Ambassador** (LGU) for multiple events
-- **Art Competition** – 3rd Position
-- **Member** of English Debate Society
-- **Midfielder** – Cantt United Football Club
-- **Volunteer roles** in large scale events (LGU, IEEE, Web3Pak, HER Marketplace)
-
----
-
 ## 📬 Contact
 
 I am always open to new opportunities and collaborations. Feel free to reach out!
@@ -124,5 +63,5 @@ I am always open to new opportunities and collaborations. Feel free to reach out
 - **Email**: [sajideenhassan12@gmail.com](mailto:sajideenhassan12@gmail.com)
 - **Phone**: +92-334-8631680
 - **Location**: Lahore, Pakistan
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/sajideen-hassan-79875428a) <!-- Update with your actual profile link -->
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/sajideen-hassan) <!-- Update with your actual profile link -->
  <!-- Update with your actual portfolio link -->
