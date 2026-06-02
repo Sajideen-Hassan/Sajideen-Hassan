@@ -63,5 +63,5 @@ I am always open to new opportunities and collaborations. Feel free to reach out
 - **Email**: [sajideenhassan12@gmail.com](mailto:sajideenhassan12@gmail.com)
 - **Phone**: +92-334-8631680
 - **Location**: Lahore, Pakistan
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/sajideen-hassan)<
- - **Portfolio**: [Your Profolio Profile]([https://sajideen-portfolio.vercel.app])
+- **LinkedIn**: [MY LinkedIn Profile](www.linkedin.com/in/sajideen-hassan)<
+ - **Portfolio**: [MY Profolio](https://sajideen-portfolio.vercel.app)<
