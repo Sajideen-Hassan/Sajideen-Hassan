@@ -1,10 +1,10 @@
-# Sajideen Hassan | MERN Stack Developer
+# Sajideen Hassan | Full Stack Developer
 
 Welcome to my professional portfolio repository. This repository includes my detailed CVs and an overview of my skills, projects, experience, and certifications as a MERN Stack Developer and Software Engineer.
 
 ## 💼 About Me
 
-I am a passionate **MERN Stack Developer** with hands on experience in building responsive, scalable, and user focused full stack applications. My expertise spans frontend, backend, databases, authentication, and modern development workflows. I enjoy solving complex problems, building production ready systems, and continuously expanding my technical skill set.
+I am a passionate **Full Stack Developer** with hands on experience in building responsive, scalable, and user focused full stack applications. My expertise spans frontend, backend, databases, authentication, and modern development workflows. I enjoy solving complex problems, building production ready systems, and continuously expanding my technical skill set.
 
 ---
 
