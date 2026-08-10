@@ -1,15 +1,149 @@
-# Sajideen Hassan | Project Manager
+# Sajideen Hassan | Associate Software Engineer
 
-Welcome to my professional portfolio repository. This repository includes my detailed CVs and an overview of my skills, projects, experience, and certifications.
+Welcome to my professional portfolio repository. This repository includes my CV, technical skills, projects, professional experience, certifications, and software development work.
+
 ## 💼 About Me
 
-I am a passionate Project Manager with hands on experience guiding software delivery lifecycles from conception to production ready release. My expertise spans Agile/Scrum frameworks, resource planning, stakeholder alignment, and modern project management tools. I enjoy solving complex operational blockers, fostering collaborative and high performing team environments, and ensuring products are delivered on time, within scope, and aligned with user needs.
+I am an Associate Software Engineer with 1+ year of hands-on experience building and supporting modern web applications and digital products. My experience spans full-stack development, API integration, database management, debugging, and application optimization across MERN, PERN, and Python based projects. I also work closely with clients and cross functional teams to understand requirements, solve technical challenges, coordinate development tasks, and help deliver reliable software on time.
 
 ---
 
 ## 🚀 Technical Expertise
 
 ### **Frontend**
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React.js
+* Bootstrap
+* Tailwind CSS
+* Ant Design
+* Framer Motion
+* GSAP
+
+### **Backend**
+
+* Node.js
+* Express.js
+* Python
+* REST APIs
+* MVC Architecture
+* API Integration
+* Server-Side Development
+
+### **Database**
+
+* MongoDB
+* PostgreSQL
+* Supabase
+* Turso
+* Firebase / Firestore
+* Mongoose
+
+### **AI & Automation**
+
+* AI API Integration
+* Generative AI
+* Prompt Engineering
+* AI Chatbots
+* ElevenLabs
+* n8n
+* AI-Powered Application Development
+
+### **Security & Authentication**
+
+* JWT Authentication
+* Role-Based Access Control (RBAC)
+* OTP Authentication
+* Password Hashing
+* API Security
+* Rate Limiting
+* XSS Protection
+
+### **Tools & Technologies**
+
+* Git & GitHub
+* Docker
+* Postman
+* REST APIs
+* Stripe API
+* Firebase
+* Supabase
+* Agile / Scrum
+* CI/CD
+* Project & Task Management
+
+---
+
+## 📌 Featured Projects
+
+### **AI Skin Disease Identifier**
+
+AI-powered application that analyzes skin images using a trained deep learning model and provides potential condition information, precautions, prevention guidance, and dermatologist recommendations.
+
+### **Raynova Tech**
+
+Developed the official company website with a quotation management dashboard and AI-powered chatbot. Later migrated the database architecture from MongoDB to Turso while maintaining application functionality.
+
+### **AI Furniture Support Chatbot**
+
+Built a conversational AI support solution using ElevenLabs to help customers with furniture-related questions, product information, recommendations, and general support.
+
+### **Brotchun**
+
+Developed a modern, animation-focused website using interactive UI elements, smooth scrolling, GSAP, and Framer Motion to create an engaging digital experience.
+
+### **TechTide Platform**
+
+Worked on the official website and internal developer dashboard, implementing feature improvements, resolving technical issues, and supporting developer task assignment and management.
+
+### **n8n Workflow Marketplace**
+
+Built a full-stack marketplace for discovering and purchasing n8n automation workflows, including workflow documentation, visual diagrams, Stripe payments, and user dashboards.
+
+### **Smart Inventory Management System**
+
+Developed a barcode-based inventory and billing system using MERN and Python, allowing businesses to add products through barcode scanning and automatically update inventory during checkout.
+
+---
+
+## 📜 Certifications
+
+* **MERN Stack Development** — NAVTTC
+* **Complete Web Development** — Udemy
+* **WordPress Development** — Coursera
+* **Prompt Engineering Masterclass** — Development Island
+* **Business Analysis & Process Management** — Coursera
+* **Microsoft Excel** — Coursera
+
+---
+
+## 💼 Professional Experience
+
+**Associate Software Engineer — TechTideCo**
+Nov 2025 – May 2026
+
+**Associate Software Engineer Intern — TechTideCo**
+Aug 2025 – Nov 2025
+
+**Management Lead — ISPR Internship**
+Jul 2025 – Aug 2025
+
+**Web Developer Intern — IT Club**
+Jan 2025 – Mar 2025
+
+---
+
+## 📬 Contact
+
+I am open to software engineering opportunities, collaborations, and projects where I can contribute through both technical development and effective project coordination.
+
+* **Email:** [sajideenhassan12@gmail.com](mailto:sajideenhassan12@gmail.com)
+* **Phone:** +92-334-8631680
+* **Location:** Lahore, Pakistan
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -62,5 +196,3 @@ I am always open to new opportunities and collaborations. Feel free to reach out
 - **Email**: [sajideenhassan12@gmail.com](mailto:sajideenhassan12@gmail.com)
 - **Phone**: +92-334-8631680
 - **Location**: Lahore, Pakistan
-- **LinkedIn**: [MY LinkedIn Profile](www.linkedin.com/in/sajideen-hassan)<
- - **Portfolio**: [MY Profolio](https://sajideen-portfolio.vercel.app)<
