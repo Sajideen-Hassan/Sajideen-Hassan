@@ -1,9 +1,10 @@
-# Sajideen Hassan | Project Manager
+# Sajideen Hassan | Associate Software Engineer
 
-Welcome to my professional portfolio repository. This repository includes my detailed CVs and an overview of my skills, projects, experience, and certifications.
+Welcome to my professional portfolio repository. This repository includes an overview of my skills, projects, and certifications.
+
 ## 💼 About Me
 
-I am a passionate Project Manager with hands on experience guiding software delivery lifecycles from conception to production ready release. My expertise spans Agile/Scrum frameworks, resource planning, stakeholder alignment, and modern project management tools. I enjoy solving complex operational blockers, fostering collaborative and high performing team environments, and ensuring products are delivered on time, within scope, and aligned with user needs.
+I am a passionate Associate Software Engineer with expertise and domain knowledge in full-stack web development across the MERN (MongoDB, Express.js, React, Node.js), PERN (PostgreSQL, Express.js, React, Node.js), and Python stacks. I enjoy building robust, scalable, and secure web applications, designing clean RESTful APIs, and solving complex problems. I am committed to clean code practices, security principles like JWT and RBAC, and collaborating within Agile development environments to deliver high-quality, production-ready software.
 
 ---
 
@@ -22,11 +23,13 @@ I am a passionate Project Manager with hands on experience guiding software deli
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ### **Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
 
